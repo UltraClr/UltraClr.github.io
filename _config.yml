@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Longrong Chen"
+title                    : "Longrong Chen's Introduction"
 description              : "Digital Human/Video Generation/AIGC"
 repository               : "UltraClr/UltraClr.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ author:
   name             : "Longrong Chen"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhejiang University of Technology"
-  location         : "Hangzhou Zhejiang"
+  location         : "Zhejiang Hangzhou,China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : 
