@@ -28,7 +28,7 @@ My research areas include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/ZJUT_logo.svg" width="20pt"></a> Zhejiang University of Technology, Jianxing Honors College, Zhejiang Hangzhou, Undergraduate
+- *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/ZJUT_logo.svg" width="20pt"></a> Zhejiang University of Technology, Computer Science and Software College, Zhejiang Hangzhou, Undergraduate
  
 <span class='anchor' id='-lwzl'></span>
 
