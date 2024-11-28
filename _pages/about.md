@@ -19,18 +19,18 @@ redirect_from:
 
 # 👋 Introduction
 I am currently a senior student, focusing on Digital Human.
-Now I am busy on lip sync.
+Now I am busy on audio-driven talking face generation.
 My research areas include:
 - Digital Human (Lip Sync)
 - Artificial Intelligence (Multi-Agent)
 - Artificial Intelligence Generated Content (AIGC)
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-Educations'></span>
 
 # 🎓 Educations
 - *2021.09 - 2025.06*, <a href="https://www.zjut.edu.cn/"><img class="svg" src="/images/zjut_logo.svg" width="20pt"></a> Zhejiang University of Technology, Computer Science and Software College, Zhejiang Hangzhou, Undergraduate
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-Publications'></span>
 
 # 📝 Publications
 
@@ -43,7 +43,7 @@ My research areas include:
 
 - coming soon~
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-Honors'></span>
 
 # 🏅 Honors
 - *2015.11* 获得 XX `一等奖`  
@@ -51,7 +51,7 @@ My research areas include:
 - *2014.12* 获得 xXX `一等奖`  
 
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-Interships'></span>
 
 # 💻 Interships
 - *2021.08 - 2021.12*, XXXX,Hangzhou
